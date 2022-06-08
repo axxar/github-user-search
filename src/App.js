@@ -77,7 +77,7 @@ function App() {
           </svg>
         </button>
       </form>
-      <div class="mx-10 relative overflow-x-auto shadow-md sm:rounded-lg">
+      <div class="mx-10 relative overflow-x-auto shadow-md rounded-lg">
         <table class="w-full text-left text-gray-500 dark:text-gray-400">
           <tbody>
             {items.map((item, index) => (
